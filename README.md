@@ -1,4 +1,4 @@
-🇬🇧
+EN
 - 👋 Hi, I’m Nathaniel Vaur Henel, a `Java senior developer` and `Tech Leader`.
 - 👀 I’m interested in `Software Craftmanship`.
 - 🌱 I’m currently learning how to create `Android` application with `Kotlin`.
